@@ -1,0 +1,36 @@
+.small-about-container {
+    background-color: #f8f9fa;
+    padding: 2rem;
+}
+
+h5 {
+    color: #2F4F4F;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #2f8d7b;
+    border-color: #2f8d7b;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #256d60;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
